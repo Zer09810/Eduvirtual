@@ -1,11 +1,11 @@
 from MoodleClient import MoodleClient
 
-BOT_TOKEN = '5275093061:AAGqgMGDo1lxhUXNnsF2Kvc1zhAlik_uizw'
+BOT_TOKEN = '5288013252:AAHIHy4H_Gqf523MI2pFDaQf71onzYT4nAg'
 MAX_ZIP_SIZE = 98
-ACCES_USERS = ['ElJoker63', 'O_O1000', 'Soul_Octopus']
+ACCES_USERS = ['Zer09810', '', '']
 CHAT_ID = '-1001666279733'
-URLMOODLE = 'http://eva.umcc.cu/posgrado/'
-CREDENTIALS = {'username':'usuario1','password':'Usuario1*'}
+URLMOODLE = 'https://eduvirtual.uho.edu.cu/'
+CREDENTIALS = {'yeima':'usuario1','yeima0428':'Usuario1*'}
 CACHE = {}
 
 def getCache():
