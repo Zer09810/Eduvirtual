@@ -7,7 +7,7 @@ CHAT_ID = '-1001666279733'
 # DATOS DEL MOODLE
 USUARIO = 'yeima'
 MOODLE_PASSWORD = 'yeima0428'
-USUARIO_ID = 20005 #Tu id
+USUARIO_ID = 7338 #Tu id
 ZIP_MB = 249
 MOODLE_URL = 'https://eduvirtual.uho.edu.cu'
 
